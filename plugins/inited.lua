@@ -1,4 +1,4 @@
 --local
 return {
-    { "/home/sheetal/.config/nvim/lua/custom/themes/xonedark.lua" },
+    { "$HOME/.config/nvim/lua/custom/themes/xonedark.lua" },
   }
