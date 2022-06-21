@@ -1,5 +1,5 @@
 # Xonedark
-A modified version of the reknowned onedark theme. This configuration is made exclusively for [NvChad](https://nvchad.github.io/).
+A modified version of the renowned onedark theme. This configuration is made exclusively for [NvChad](https://nvchad.github.io/).
 
 # ⚙️ Installation
 
