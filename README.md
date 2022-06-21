@@ -3,7 +3,7 @@ Custom config for [NvChad](https://nvchad.github.io/) featuring a modified versi
 
 # ⚙️ installation
 
-  1. `git clone https://github.com/devjessah/custom.git`
+  1. `git clone https://github.com/devjessah/xonedark.git`
 
   2. `mv custom ~/.config/nvim/lua/`
   
@@ -11,7 +11,7 @@ Custom config for [NvChad](https://nvchad.github.io/) featuring a modified versi
 
 
 
-![xonedark theme](https://raw.githubusercontent.com/devjessah/custom/master/xonedark.png)
+![xonedark theme](https://raw.githubusercontent.com/devjessah/xonedark/master/xonedark.png)
 
 
 
