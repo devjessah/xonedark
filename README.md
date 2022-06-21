@@ -1,7 +1,7 @@
-# Xonedark
+# xonedark
 A modified version of the renowned onedark theme. This configuration is made exclusively for [NvChad](https://nvchad.github.io/).
 
-# ⚙️ Installation
+# ⚙️ installation
 
   1. `git clone https://github.com/devjessah/xonedark.git`
 
