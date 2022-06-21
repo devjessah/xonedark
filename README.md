@@ -1,14 +1,13 @@
-# custom
-Custom config for [NvChad](https://nvchad.github.io/) featuring a modified version of onedark theme **"xonedark"**
+# Xonedark
+A modified version of the reknowned onedark theme. This configuration is made exclusively for [NvChad](https://nvchad.github.io/).
 
-# ⚙️ installation
+# ⚙️ Installation
 
   1. `git clone https://github.com/devjessah/xonedark.git`
 
   2. `mv custom ~/.config/nvim/lua/`
   
   Note: if you already have a custom folder, just move the themes folder, and modify your chadrc.lua & plugins/inited.lua accordingly
-
 
 
 ![xonedark theme](https://raw.githubusercontent.com/devjessah/xonedark/master/xonedark.png)
