@@ -1,5 +1,5 @@
 # custom
-Custom config for NvChad featuring a modified version of onedark theme **"xonedark"**
+Custom config for [NvChad](https://nvchad.github.io/) featuring a modified version of onedark theme **"xonedark"**
 
 # ⚙️ installation
 
